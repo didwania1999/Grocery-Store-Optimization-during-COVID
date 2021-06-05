@@ -1,11 +1,8 @@
 <code>
-  <h1 align="center">Project Title </h1>
+  <h1 align="center">Grocery-Store-Optimization-During-COVID</h1>
 </code>
 
-<!-- For logo -->
-<!-- <p align="center">
-  <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
-</p> -->
+
 
 # Overview
 
@@ -13,35 +10,19 @@
 
 ## What is the `Project`?
 
-`Project` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
+Association Rules and Apriori Algorithm to increase sales of a grocery store while following social-distancing norms.
 
-```python
-def main()
-    text = "Hello World!"
-    return text
+This project aims to optimise the sales by keeping associated items together.
 
-if __name__ == '__main__':
-    text = main()
-    print(text)
-```
 
 # Features
 
-![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/Web-Automation?logo=GitHub&style=flat-square)
-![License](https://img.shields.io/github/license/shaurya-src/Web-Automation?logo=GitLab&style=flat-square)
-![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/Web-Automation?logo=Git&style=flat-square)
 
 <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="300" height="300">
 
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
+- [x] Easily customisable for different stores
+- [x] Need very less data to train
+- [x] Gives the stakeholder complete overview of the items to be purchased
 - [x] *And More...*
 
 # Contents
