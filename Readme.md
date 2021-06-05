@@ -25,18 +25,8 @@ This project aims to optimise the sales by keeping associated items together.
 - [x] Gives the stakeholder complete overview of the items to be purchased
 - [x] *And More...*
 
-# Contents
 
-- [Project Details](#project-info)
-- [Usage](#usage)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Contribute](#contri)
-- [Tech Stacks](#tech)
-- [License](#license)
-- [Author](#author)
-
-# <a name="project-info"> Association Rules
+# <a name="project-info"> What are Association Rules?
 
 Association Rules.
 
@@ -51,8 +41,8 @@ Conviction: The ratio of the expected frequency that X occurs without Y (that is
 Leverage: Leverage measures the difference of X and Y appearing together in the data set and what would be expected if X and Y where statistically dependent.
 
 
-<p align="center">
-  <code> Muskan Didwania </code>
+<p align="left">
+  <code> Author: Muskan Didwania </code>
 </p>
 
 
